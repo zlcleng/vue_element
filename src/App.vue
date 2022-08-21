@@ -1,14 +1,15 @@
-<script setup>
-</script>
-
 <template>
-  <header>
-    zcfsdfd
-  </header>
-
   <RouterView />
 </template>
 
-<style scoped>
-
-</style>
+<script>
+// import { defineComponent } from 'vue'
+// export default defineComponent({
+//   props: {
+//     transition: {
+//       type: String,
+//       default: () => 'el-fade-in'
+//     }
+//   }
+// })
+</script>
