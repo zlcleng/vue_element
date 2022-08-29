@@ -9,6 +9,7 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
   },
   "dependencies": {
+    "dayjs": "^1.11.5",
     "element-plus": "^2.2.13",
     "pinia": "^2.0.17",
     "rollup-plugin-external-globals": "^0.6.1",
